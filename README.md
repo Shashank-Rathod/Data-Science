@@ -1,4 +1,4 @@
 # Data-Science
 
-Currently i am learning Data Science. 
-my internship start form 02-01-2025 on a data science.
+Currently, I am learning Data Science. 
+My internship in data science started on 02-01-2025.
